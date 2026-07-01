@@ -1,1 +1,2 @@
-los problemas extraidos de los anteriores repositorios
+los problemas avansados por medio del estudiante
+
